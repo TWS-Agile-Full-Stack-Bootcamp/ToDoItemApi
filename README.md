@@ -21,5 +21,5 @@ As a user
 I can get the the ToDoItem by Id.
 ```
 ## How to test
-1. run command 'dotnet run'
+1. run command `dotnet run`
 2. open https://localhost:5001/swagger/index.html to test your apis
